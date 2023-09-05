@@ -20,8 +20,8 @@ file:
     minio:
       endpoint: http://127.0.0.1:9000
       bucket: oss-server
-      access-key: root
-      secret-key: root
+      access-key: TuxzwmgAxJBVAgC4i2bG
+      secret-key: GyX4lXA7VC9wSPvUzIRNpRSW4esS7QNgFTvIbWIi
       tmp-dir: ./tmp/
       tmp-clean: true
       tmp-first-clean-time: 2021-12-17 11:45:00
